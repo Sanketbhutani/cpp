@@ -1,2 +1,2 @@
 # cpp
-this is my code for competitive prog
+this is my code for competitive proging concepts
